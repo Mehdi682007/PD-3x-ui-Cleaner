@@ -118,10 +118,13 @@ MIT License
 
 تهیه و نگهداری: Mehdi
 
-محیط اسکریپت
+محیط اسکریپت :
 
 
-![Uploading image.png…]()
+
+<img width="2343" height="1354" alt="image" src="https://github.com/user-attachments/assets/89b334de-4e79-469e-aa5a-432bc11e61ec" />
+
+
 
 
 
