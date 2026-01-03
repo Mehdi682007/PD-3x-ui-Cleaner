@@ -33,7 +33,7 @@
 روی سرور خود دستور زیر را اجرا کنید:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Mehdi682007/PD-3x-ui-Cleaner/main/install.sh | bash
+bash <(curl -Ls https://raw.githubusercontent.com/Mehdi682007/PD-3x-ui-Cleaner/main/install.sh)
 ```
 
 این دستور:
